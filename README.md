@@ -17,9 +17,9 @@
 - Make Firestore Rules
 - Create Android, iOS & Web Apps
 - Take Web FirebaseOptions and put it in main function in main.dart
-  flutter pub get
-  open -a simulator
-  flutter run
+- flutter pub get
+-  open -a simulator
+- flutter run
 
 ## Tech Used
 Firebase Auth, Firebase Storage, Firebase Firestore, Flutter, Provider
